@@ -1,0 +1,26 @@
+{
+  "name": "search-engine-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayoTitiloye-code/Search-Engine.git"
+  },
+  "keywords": [],
+  "author": "Adedayo Titiloye Young Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DayoTitiloye-code/Search-Engine/issues"
+  },
+  "homepage": "https://github.com/DayoTitiloye-code/Search-Engine#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.20"
+  }
+}
