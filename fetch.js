@@ -6,6 +6,7 @@ async function callGoogle (q) {
     let dayoApiKey = 'AIzaSyCZyGyW_no5i82zNYV-_sYyz7GLSjqvrQc'
 
     let url = `https://www.googleapis.com/customsearch/v1?key=${dayoApiKey}&cx=e5d862fcf3cff4a4f&gl=uk&q=${q}`
+    
     const res =  await fetch(url);
     const data = await res.json();
     return data;
