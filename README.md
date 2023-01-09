@@ -1,5 +1,5 @@
 ***Collaborators:***
-Dayo Titiloye and Young Kim
+Young Kim and Dayo Titiloye
 
 ***Assignment Title:***
 Custom Search Engine

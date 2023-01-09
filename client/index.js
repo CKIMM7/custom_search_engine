@@ -19,7 +19,7 @@ function search (e) {
 
 async function callGoogle (q) {
 
-    let endPoint = `http://localhost:3000/search/${q}`
+    let endPoint = `http://localhost:4000/search/${q}`
 
     const res =  await fetch(endPoint);
     const data = await res.json();
