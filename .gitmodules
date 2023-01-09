@@ -1,0 +1,3 @@
+[submodule "card_generator"]
+	path = card_generator
+	url = git@github.com:CKIMM7/card_generator.git
